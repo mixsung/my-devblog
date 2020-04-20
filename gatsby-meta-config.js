@@ -1,5 +1,5 @@
 module.exports = {
-  title: `HiHi`,
+  title: `개발 블로그`,
   description: ``,
   author: `Misung Kim`,
   introduction: `웹 개발자를 위해 공부하고 있습니다 👩🏻‍💻`,
@@ -12,6 +12,7 @@ module.exports = {
     linkedin: `mixsung`, // Your LinkedIn account
   },
   icon: ``, // Add your favicon
+  thumbnail: `content/assets/profile.png`,
   keywords: [`blog`, `javascript`, `programming`, `web`, `open-source`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
@@ -21,7 +22,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: '',
+    buyMeACoffeeId: 'mixsung',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
