@@ -2,7 +2,7 @@
 title: 'C언어에서 function과 array의 차이'
 date: 2020-05-20 20:05:71
 category: 'algorithm'
-thumbnail: { thumbnailSrc }
+thumbnail: './images/thumbnail.jpeg'
 draft: false
 ---
 
