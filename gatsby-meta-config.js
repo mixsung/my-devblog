@@ -1,8 +1,8 @@
 module.exports = {
-  title: `개발 블로그`,
+  title: ``,
   description: `This blog is powered by gatsby`,
   author: `Misung Kim`,
-  introduction: `웹 개발자를 위해 공부하고 있습니다 👩🏻‍💻`,
+  introduction: ``,
   siteUrl: `https://mixsung.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
